@@ -1,4 +1,4 @@
-# vue3messier
+# https://pervakam.github.io/vue3messier/
 
 ## Project setup
 ```
